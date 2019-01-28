@@ -42,7 +42,16 @@ Example: Operator Overloading, Function Overloading.
 | Internal  | Visible inside containing assembly.  |
 | Internal protected  | Visible inside containing assembly and descendent of thecurrent class.  |
 
-
+## Class
+|  Modifier | Description  |
+| ------------ | ------------ |
+| sealed  | Class can't be inherited by a derived class.  |
+| static  | Class contains only static members.  |
+| unsafe  | The class that has some unsafe construct likes pointers.  |
+| Abstract  | The instance of the class is not created if the Class is abstract.  |
+	
+	
+	
 	
 	
 	
