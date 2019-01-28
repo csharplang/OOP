@@ -1,0 +1,11 @@
+﻿
+
+Install-Package Microsoft.EntityFrameworkCore -Version 2.1.0
+
+
+
+Class:
+https://www.tutorialsteacher.com/csharp/csharp-class
+
+Interface:
+https://www.guru99.com/c-sharp-interface.html
