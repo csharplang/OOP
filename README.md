@@ -1,5 +1,4 @@
-## OOP
-* Object-oriented programming (OOP) Example using C#. 
+# Object-oriented programming (OOP) Example using C#. 
 
 ## OOP Characteristics:
 1. Objects.
