@@ -1,4 +1,7 @@
-﻿## Abstract Class
+﻿
+
+
+## Abstract Class
 * An abstract class is an incomplete class or special class we <b>can't instantiate.</b> 
 * We can use an abstract class as a base Class. 
 * An abstract method must be implemented in the non-abstract class using the override keyword. 
