@@ -21,3 +21,9 @@ public static class MyStaticClass
         public static int Summation(int x, int y) => x + y;
     }
 ```
+
+### Uses
+* A Math class with all static methods. Static classes are useful and provide an easy way to access its members that does not need to work differently for different objects. 
+* Above MyStaticClass class. We know the value of MyStaticClass class members will never change regardless of its objects.
+* App Configuration class that has all static settings about an app and the values of settings don’t change based on the objects or users.
+* A DatabaseConfig class that may have members such as database name, server name, port number, and even a connection string. We know that these values will not change for objects. 
