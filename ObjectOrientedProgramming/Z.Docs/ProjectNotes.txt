@@ -9,3 +9,8 @@ https://www.tutorialsteacher.com/csharp/csharp-class
 
 Interface:
 https://www.guru99.com/c-sharp-interface.html
+
+
+Run from macOS:
+dotnet restore
+dotnet run 
