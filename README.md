@@ -52,8 +52,18 @@ Example: Operator Overloading, Function Overloading.
 	
 	
 	
+
+#### Notes:
+* Question: What is difference between Composition and Aggregation (Composition vs Aggregation)?
+* Association is a relationship between two objects. This relationship may be one-o-one, one-to-many, many-to-one, and many-to-many.
+* For e.g. a student and teacher objects have an association.
+* Aggregation is a special case of association in which objects have a "has-a" relationship. 
+* Composition is also a "has-a" relationship but It is a special case of Aggregation in which an object manages the life cycle of another object.
+* For example, a library contains students and books. Relationship between library and students is Aggregation. Relationship between library and books is composition. A student can exist without a library and therefore it is aggregation. A book cannot exists without a library and therefore it is composition.
+
 	
-	
-	
+* <b>An inheritance relationship is an "is-a" relationship. A composition relationship is a "has-a" relationship.</b>
+* 
+
 	
 	
